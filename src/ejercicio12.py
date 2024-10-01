@@ -3,5 +3,4 @@ estatura = float(input("Dime tu estatura en metros: "))
 
 imc = (peso/(estatura * estatura)) 
 
-print(f"Tu índice de masa corporal es: ")
-
+print(f"Tu índice de masa corporal es {imc} ")
