@@ -7,4 +7,4 @@ while num<1:
 
 suma = (num * (num + 1))/2
 
-print(f"El total de la operación es {suma}")
+print(f"El total de la operación es {suma: .2f}")

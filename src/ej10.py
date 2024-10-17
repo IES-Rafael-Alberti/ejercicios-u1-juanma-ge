@@ -8,4 +8,4 @@ denominador = float(num2 * num3)
 res = float(numerador/denominador)
 res_final = float(res * res)
 
-print(f"El resultado final es {res_final}")
+print(f"El resultado final es {res_final: .2f}")

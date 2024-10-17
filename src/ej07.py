@@ -4,4 +4,4 @@ num3 = float(input("Dame un tercer número: "))
 
 suma = num1 + num2 + num3
 
-print(f"La suma de los tres números es {suma}")
+print(f"La suma de los tres números es {suma: .2f}")

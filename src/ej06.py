@@ -6,4 +6,4 @@ iva_pagado = importe_final * tipo_de_iva
 
 importe_sin_iva = importe_final - iva_pagado
 
-print(f"El precio del iva pagado son {iva_pagado} euros y el importe sin iva son {importe_sin_iva} euros.")
+print(f"El precio del iva pagado son {iva_pagado: .2f} euros y el importe sin iva son {importe_sin_iva: .2f} euros.")

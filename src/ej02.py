@@ -1,4 +1,4 @@
-#Ejercicio 2
+
 horas_de_trabajo = float(input("Dime las horas de trabajo: "))
 
 precio_por_hora = float(input("Dime el precio por hora: "))
