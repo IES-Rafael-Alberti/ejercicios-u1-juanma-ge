@@ -1,4 +1,5 @@
-import pytest
+
+
 from src.ej05_def2 import calcular_precio
 
 def test_calcular_precio():

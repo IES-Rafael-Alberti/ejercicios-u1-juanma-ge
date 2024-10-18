@@ -9,4 +9,5 @@ def main():
     tipo_iva = float(input("Dime el tipo de iva: "))
     calcular_precio_con_iva(precio_sin_iva, tipo_iva)
 
-main()
+if __name__ == "__main__":
+    main()

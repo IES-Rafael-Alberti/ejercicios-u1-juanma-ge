@@ -1,7 +1,8 @@
-import pytest
+
 import sys
 import os
 from src.prueba1 import comprobar_numero
+
 # Agregar el directorio raíz del proyecto (practica6) al sys.path
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 

@@ -10,4 +10,5 @@ def main():
     precio = calcular_precio(importe, iva)
     print(f"{precio}")
 
-main()
+if __name__ == "__main__":
+    main()
